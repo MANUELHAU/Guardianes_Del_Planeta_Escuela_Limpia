@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: b4c76c93f03633e429a0690277043d92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8120787027078134887
+    second: MAESTRO_0
+  - first:
+      213: 8697149652320263680
+    second: MAESTRO_1
+  - first:
+      213: -4151282125097607983
+    second: MAESTRO_2
+  - first:
+      213: 2324565638068747515
+    second: MAESTRO_3
+  - first:
+      213: 6467255302486144779
+    second: MAESTRO_4
+  - first:
+      213: 3890558864360931020
+    second: MAESTRO_5
+  - first:
+      213: 7412761176919100150
+    second: MAESTRO_6
+  - first:
+      213: -5949479922668315695
+    second: MAESTRO_7
+  - first:
+      213: -4647097666828889699
+    second: MAESTRO_8
+  - first:
+      213: 6872302922192443804
+    second: MAESTRO_9
+  - first:
+      213: -6155919589553752336
+    second: MAESTRO_10
+  - first:
+      213: 972384046088938621
+    second: MAESTRO_11
+  - first:
+      213: 676798604186297569
+    second: MAESTRO_12
+  - first:
+      213: -1518524751455332252
+    second: MAESTRO_13
+  - first:
+      213: 5417343539465892283
+    second: MAESTRO_14
+  - first:
+      213: -6549717529271226137
+    second: MAESTRO_15
+  - first:
+      213: 3426752072668477006
+    second: MAESTRO_16
+  - first:
+      213: -7987728116421937289
+    second: MAESTRO_17
+  - first:
+      213: -2869867878525925229
+    second: MAESTRO_18
+  - first:
+      213: -2948071123833716556
+    second: MAESTRO_19
+  - first:
+      213: 5315277777214168824
+    second: MAESTRO_20
+  - first:
+      213: -32544109973137506
+    second: MAESTRO_21
+  - first:
+      213: -7291160922054071842
+    second: MAESTRO_22
+  - first:
+      213: -3042733511354976277
+    second: MAESTRO_23
+  - first:
+      213: -3636197023866451733
+    second: MAESTRO_24
+  - first:
+      213: 6362894226894854204
+    second: MAESTRO_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MAESTRO_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 803
+        width: 75
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9934862893b2d4f80800000000000000
+      internalID: -8120787027078134887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 803
+        width: 75
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e16f0878b72b870800000000000000
+      internalID: 8697149652320263680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 803
+        width: 74
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcd023d6eea366c0800000000000000
+      internalID: -4151282125097607983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_3
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 803
+        width: 74
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcba2ab124824020800000000000000
+      internalID: 2324565638068747515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_4
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 803
+        width: 74
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07b270ce6e40c950800000000000000
+      internalID: 6467255302486144779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 609
+        width: 75
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccefaff8caa0ef530800000000000000
+      internalID: 3890558864360931020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 609
+        width: 74
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fac113140b6fd660800000000000000
+      internalID: 7412761176919100150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 609
+        width: 71
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db590338833f6da0800000000000000
+      internalID: -5949479922668315695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_8
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 609
+        width: 78
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d911e1c1b41328fb0800000000000000
+      internalID: -4647097666828889699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_9
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 609
+        width: 96
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99d822c8135f5f50800000000000000
+      internalID: 6872302922192443804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 416
+        width: 75
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6b7ceafb7c19aa0800000000000000
+      internalID: -6155919589553752336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 415
+        width: 69
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d746364532a9e7d00800000000000000
+      internalID: 972384046088938621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_12
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 416
+        width: 68
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e42103aeb8746900800000000000000
+      internalID: 676798604186297569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_13
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 415
+        width: 71
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468ddd6b8cd1deae0800000000000000
+      internalID: -1518524751455332252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_14
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 416
+        width: 94
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb13f103f354e2b40800000000000000
+      internalID: 5417343539465892283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 223
+        width: 78
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0b3a8eb9aba15a0800000000000000
+      internalID: -6549717529271226137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 223
+        width: 77
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46fcb8bad44e8f20800000000000000
+      internalID: 3426752072668477006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_17
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 223
+        width: 72
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77735425993e52190800000000000000
+      internalID: -7987728116421937289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_18
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 223
+        width: 73
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3988824ae5e2c28d0800000000000000
+      internalID: -2869867878525925229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_19
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 223
+        width: 74
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b00e43bee85617d0800000000000000
+      internalID: -2948071123833716556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_20
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 29
+        width: 76
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fed0611af8a3c940800000000000000
+      internalID: 5315277777214168824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_21
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 29
+        width: 87
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97158ded416c8ff0800000000000000
+      internalID: -32544109973137506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_22
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 29
+        width: 72
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9e1c885c790da90800000000000000
+      internalID: -7291160922054071842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_23
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 29
+        width: 73
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be772851ef906c5d0800000000000000
+      internalID: -3042733511354976277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_24
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 31
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be88b1b7212a98dc0800000000000000
+      internalID: -3636197023866451733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRO_25
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c389379569a8d4850800000000000000
+      internalID: 6362894226894854204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MAESTRO_0: -8120787027078134887
+      MAESTRO_1: 8697149652320263680
+      MAESTRO_10: -6155919589553752336
+      MAESTRO_11: 972384046088938621
+      MAESTRO_12: 676798604186297569
+      MAESTRO_13: -1518524751455332252
+      MAESTRO_14: 5417343539465892283
+      MAESTRO_15: -6549717529271226137
+      MAESTRO_16: 3426752072668477006
+      MAESTRO_17: -7987728116421937289
+      MAESTRO_18: -2869867878525925229
+      MAESTRO_19: -2948071123833716556
+      MAESTRO_2: -4151282125097607983
+      MAESTRO_20: 5315277777214168824
+      MAESTRO_21: -32544109973137506
+      MAESTRO_22: -7291160922054071842
+      MAESTRO_23: -3042733511354976277
+      MAESTRO_24: -3636197023866451733
+      MAESTRO_25: 6362894226894854204
+      MAESTRO_3: 2324565638068747515
+      MAESTRO_4: 6467255302486144779
+      MAESTRO_5: 3890558864360931020
+      MAESTRO_6: 7412761176919100150
+      MAESTRO_7: -5949479922668315695
+      MAESTRO_8: -4647097666828889699
+      MAESTRO_9: 6872302922192443804
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

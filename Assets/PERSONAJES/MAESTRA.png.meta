@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 7d0a34e1cd7b0a74bb6c65e0a742f54f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7144817095170585006
+    second: MAESTRA_0
+  - first:
+      213: -8873847725719580485
+    second: MAESTRA_1
+  - first:
+      213: -3767930692161121207
+    second: MAESTRA_2
+  - first:
+      213: 7918707634532156600
+    second: MAESTRA_3
+  - first:
+      213: 3914470380503767355
+    second: MAESTRA_4
+  - first:
+      213: 2303926898774651225
+    second: MAESTRA_5
+  - first:
+      213: 780970164228170612
+    second: MAESTRA_6
+  - first:
+      213: -3155575527469375016
+    second: MAESTRA_7
+  - first:
+      213: 5693867441631454500
+    second: MAESTRA_8
+  - first:
+      213: 592569015821214328
+    second: MAESTRA_9
+  - first:
+      213: -7833859009353747514
+    second: MAESTRA_10
+  - first:
+      213: -7010312297884112332
+    second: MAESTRA_11
+  - first:
+      213: -5666922158592885774
+    second: MAESTRA_12
+  - first:
+      213: 2128095260560959499
+    second: MAESTRA_13
+  - first:
+      213: 265318461961407569
+    second: MAESTRA_14
+  - first:
+      213: 1431062385438696381
+    second: MAESTRA_15
+  - first:
+      213: 1351745010654331992
+    second: MAESTRA_16
+  - first:
+      213: -6716529625828098394
+    second: MAESTRA_17
+  - first:
+      213: 3969953762272927272
+    second: MAESTRA_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MAESTRA_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 767
+        width: 101
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1f7ce0b4d772360800000000000000
+      internalID: 7144817095170585006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 767
+        width: 100
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb093955282c9d480800000000000000
+      internalID: -8873847725719580485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_2
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 767
+        width: 100
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944d173bffe95bbc0800000000000000
+      internalID: -3767930692161121207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 767
+        width: 121
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4867473a6e4ed60800000000000000
+      internalID: 7918707634532156600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_4
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 767
+        width: 104
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3917b1421ef25630800000000000000
+      internalID: 3914470380503767355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 534
+        width: 101
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9513ee5ce4139ff10800000000000000
+      internalID: 2303926898774651225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 533
+        width: 100
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473aff20a3096da00800000000000000
+      internalID: 780970164228170612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 535
+        width: 108
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1a547d6c42534d0800000000000000
+      internalID: -3155575527469375016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_8
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 537
+        width: 113
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425ea90554ea40f40800000000000000
+      internalID: 5693867441631454500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_9
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 535
+        width: 100
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8722dec516a393800800000000000000
+      internalID: 592569015821214328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 303
+        width: 100
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3f9fe8cba884390800000000000000
+      internalID: -7833859009353747514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 303
+        width: 100
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43aa0187b1e56be90800000000000000
+      internalID: -7010312297884112332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_12
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 303
+        width: 100
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbf747425c0b51b0800000000000000
+      internalID: -5666922158592885774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 303
+        width: 100
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08ade54d53888d10800000000000000
+      internalID: 2128095260560959499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_14
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 305
+        width: 128
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c00954cb99ea300800000000000000
+      internalID: 265318461961407569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 72
+        width: 100
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db32f7f48a72cd310800000000000000
+      internalID: 1431062385438696381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 72
+        width: 101
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85445f2ecec52c210800000000000000
+      internalID: 1351745010654331992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_17
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 72
+        width: 100
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aef02914e71ac2a0800000000000000
+      internalID: -6716529625828098394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAESTRA_18
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 31
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ed00fb9eb181730800000000000000
+      internalID: 3969953762272927272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MAESTRA_0: 7144817095170585006
+      MAESTRA_1: -8873847725719580485
+      MAESTRA_10: -7833859009353747514
+      MAESTRA_11: -7010312297884112332
+      MAESTRA_12: -5666922158592885774
+      MAESTRA_13: 2128095260560959499
+      MAESTRA_14: 265318461961407569
+      MAESTRA_15: 1431062385438696381
+      MAESTRA_16: 1351745010654331992
+      MAESTRA_17: -6716529625828098394
+      MAESTRA_18: 3969953762272927272
+      MAESTRA_2: -3767930692161121207
+      MAESTRA_3: 7918707634532156600
+      MAESTRA_4: 3914470380503767355
+      MAESTRA_5: 2303926898774651225
+      MAESTRA_6: 780970164228170612
+      MAESTRA_7: -3155575527469375016
+      MAESTRA_8: 5693867441631454500
+      MAESTRA_9: 592569015821214328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

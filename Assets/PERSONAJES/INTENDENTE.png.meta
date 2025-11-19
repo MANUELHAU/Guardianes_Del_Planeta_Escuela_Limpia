@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 39daff126727ee447b8810a032fe64c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6011498687878188454
+    second: INTENDENTE_0
+  - first:
+      213: 3165081013544374510
+    second: INTENDENTE_1
+  - first:
+      213: 1104563681023273069
+    second: INTENDENTE_2
+  - first:
+      213: -6184019349591740741
+    second: INTENDENTE_3
+  - first:
+      213: -8064486865637021203
+    second: INTENDENTE_4
+  - first:
+      213: -8898655488667287588
+    second: INTENDENTE_5
+  - first:
+      213: -889850160572670652
+    second: INTENDENTE_6
+  - first:
+      213: -7819780196077292083
+    second: INTENDENTE_7
+  - first:
+      213: 6135440038867662558
+    second: INTENDENTE_8
+  - first:
+      213: -1389534216863331535
+    second: INTENDENTE_9
+  - first:
+      213: -6315707414357988118
+    second: INTENDENTE_10
+  - first:
+      213: 8766190223753127583
+    second: INTENDENTE_11
+  - first:
+      213: -2886537946756519391
+    second: INTENDENTE_12
+  - first:
+      213: -6795691427922615680
+    second: INTENDENTE_13
+  - first:
+      213: 8182712338543724488
+    second: INTENDENTE_14
+  - first:
+      213: -175787664121284129
+    second: INTENDENTE_15
+  - first:
+      213: 2317629048469439398
+    second: INTENDENTE_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INTENDENTE_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 775
+        width: 88
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a523b4d2bcdd29ca0800000000000000
+      internalID: -6011498687878188454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTENDENTE_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 774
+        width: 141
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee055a99960aceb20800000000000000
+      internalID: 3165081013544374510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTENDENTE_2
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 774
+        width: 195
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68a03fc0d2345f00800000000000000
+      internalID: 1104563681023273069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTENDENTE_3
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 774
+        width: 160
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe21777a23fd2aa0800000000000000
+      internalID: -6184019349591740741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTENDENTE_4
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 775
+        width: 100
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9e6e55cef251090800000000000000
+      internalID: -8064486865637021203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTENDENTE_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 529
+        width: 98
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdff76beaff918480800000000000000
+      internalID: -8898655488667287588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTENDENTE_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 528
+        width: 145
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dddbb5efd96a3f0800000000000000
+      internalID: -889850160572670652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTENDENTE_7
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 528
+        width: 195
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5bd27b75f8a7390800000000000000
+      internalID: -7819780196077292083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTENDENTE_8
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 528
+        width: 138
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed67a695536752550800000000000000
+      internalID: 6135440038867662558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTENDENTE_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 280
+        width: 101
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b4c98edf167bce0800000000000000
+      internalID: -1389534216863331535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTENDENTE_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 279
+        width: 143
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec24e591991a58a0800000000000000
+      internalID: -6315707414357988118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTENDENTE_11
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 280
+        width: 156
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96ae403093c7a970800000000000000
+      internalID: 8766190223753127583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTENDENTE_12
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 279
+        width: 146
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a64ece705f0f7d0800000000000000
+      internalID: -2886537946756519391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTENDENTE_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 30
+        width: 135
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0826183c6aad0b1a0800000000000000
+      internalID: -6795691427922615680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTENDENTE_14
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 31
+        width: 155
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7ca1e9485de8170800000000000000
+      internalID: 8182712338543724488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTENDENTE_15
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 30
+        width: 142
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9b7240d0a7f8df0800000000000000
+      internalID: -175787664121284129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INTENDENTE_16
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 31
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3c52b175fd92020800000000000000
+      internalID: 2317629048469439398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      INTENDENTE_0: -6011498687878188454
+      INTENDENTE_1: 3165081013544374510
+      INTENDENTE_10: -6315707414357988118
+      INTENDENTE_11: 8766190223753127583
+      INTENDENTE_12: -2886537946756519391
+      INTENDENTE_13: -6795691427922615680
+      INTENDENTE_14: 8182712338543724488
+      INTENDENTE_15: -175787664121284129
+      INTENDENTE_16: 2317629048469439398
+      INTENDENTE_2: 1104563681023273069
+      INTENDENTE_3: -6184019349591740741
+      INTENDENTE_4: -8064486865637021203
+      INTENDENTE_5: -8898655488667287588
+      INTENDENTE_6: -889850160572670652
+      INTENDENTE_7: -7819780196077292083
+      INTENDENTE_8: 6135440038867662558
+      INTENDENTE_9: -1389534216863331535
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
