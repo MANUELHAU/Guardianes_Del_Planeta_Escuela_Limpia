@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4467ae632bbdde347b2431a44a27af77
+guid: 73bd8d593b2f2e34d9c50ec98c086435
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8335753993106094084
-    second: METAL_0
+      213: 8232478931321908566
+    second: "NI\xD1A_RUBIA_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: METAL_0
+      name: "NI\xD1A_RUBIA_0"
       rect:
         serializedVersion: 2
-        x: 18
-        y: 15
-        width: 410
-        height: 684
+        x: 648
+        y: 169
+        width: 187
+        height: 332
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 408f12e871c8ea370800000000000000
-      internalID: 8335753993106094084
+      spriteID: 65d645278f3af3270800000000000000
+      internalID: 8232478931321908566
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      METAL_0: 8335753993106094084
+      "NI\xD1A_RUBIA_0": 8232478931321908566
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

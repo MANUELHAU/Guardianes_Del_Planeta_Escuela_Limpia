@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4467ae632bbdde347b2431a44a27af77
+guid: b3dfa735efe52194e818ac291540da0e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8335753993106094084
-    second: METAL_0
+      213: -6011498687878188454
+    second: INTENDENTE_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: METAL_0
+      name: INTENDENTE_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 15
-        width: 410
-        height: 684
+        x: 407
+        y: 320
+        width: 193
+        height: 380
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 408f12e871c8ea370800000000000000
-      internalID: 8335753993106094084
+      spriteID: a523b4d2bcdd29ca0800000000000000
+      internalID: -6011498687878188454
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      METAL_0: 8335753993106094084
+      INTENDENTE_0: -6011498687878188454
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
